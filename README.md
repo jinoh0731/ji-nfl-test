@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--nfl-eds-demo--stevenanderson524.aem.page/
-- Live: https://main--nfl-eds-demo--stevenanderson524.aem.live/
+- Preview: https://main--ji-nfl-test--jinoh0731.aem.page/
+- Live: https://main--ji-nfl-test--jinoh0731.aem.live/
 
 ## Documentation
 
